@@ -1,4 +1,4 @@
-package aufgabe1_viktor_abgegeben;
+package blatt1Aufgabe1_viktor_abgegeben;
 
 public class MyAccount {
 

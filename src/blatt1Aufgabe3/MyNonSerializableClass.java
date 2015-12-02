@@ -1,4 +1,4 @@
-package aufgabe3;
+package blatt1Aufgabe3;
 
 public class MyNonSerializableClass {
 	private int id;

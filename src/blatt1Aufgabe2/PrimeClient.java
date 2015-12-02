@@ -1,6 +1,6 @@
 //TODO A Punkte aufschreiben
 
-package aufgabe2;
+package blatt1Aufgabe2;
 
 import java.io.BufferedReader;
 import java.io.IOException;

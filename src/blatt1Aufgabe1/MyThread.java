@@ -1,4 +1,4 @@
-package aufgabe1;
+package blatt1Aufgabe1;
 
 public class MyThread extends Thread {
 	private static final int threadMax=10;

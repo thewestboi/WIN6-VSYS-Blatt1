@@ -1,4 +1,4 @@
-package aufgabe1;
+package blatt1Aufgabe1;
 
 public class MyAccount {
 	private static int Zahl = 0;

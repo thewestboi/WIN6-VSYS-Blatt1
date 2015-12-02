@@ -1,4 +1,4 @@
-package aufgabe1;
+package blatt1Aufgabe1;
 
 public class MyThread_d extends MyAccount implements Runnable {
 	private static final int threadMax = 10;
