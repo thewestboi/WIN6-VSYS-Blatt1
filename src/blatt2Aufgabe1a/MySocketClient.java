@@ -1,3 +1,5 @@
+package blatt2Aufgabe1a;
+
 import java.io.*;
 import java.net.*;
  
