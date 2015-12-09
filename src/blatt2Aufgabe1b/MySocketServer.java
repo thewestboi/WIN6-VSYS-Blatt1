@@ -18,6 +18,7 @@ public class MySocketServer {
 			try {
 				System.out.println("Server: listening on port "+port);
 				Socket incomingConnection=socket.accept();
+				System.out.println("Connection: " + incomingConnection.toString());
 				MySocketServerConnection connection=
 					new MySocketServerConnection(incomingConnection);
 				connection.start();
